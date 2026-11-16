@@ -1,1 +1,4 @@
 Learning Git Stash
+
+By default, Git stash saves changes to tracked files, not untracked files.
+
