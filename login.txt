@@ -1,1 +1,6 @@
 Login Page
+
+Testing cherry-pick 
+
+Cherry-Pick -> instead of merging an entire branch, you can copy only the commit you need.
+    git cherry-pick <commit-id>
